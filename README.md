@@ -9,4 +9,4 @@ Starter for Spring Boot backend.
 ## Roadmap
 - [ ] Project scaffold
 - [ ] API spec (OpenAPI)
-- [ ] CI (Java + Node)
+- [ ] CI (Java)
